@@ -1,0 +1,1 @@
+(()=>{"use strict";var o;o="whats are you doing?",console.log(o),console.log(o,"22")})();
